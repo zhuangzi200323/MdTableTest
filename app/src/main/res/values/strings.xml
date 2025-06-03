@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MdTableTest</string>
+    <string name="textView_show_markdown">TextView show markdown</string>
+    <string name="tableLayout_show_markdown">TableLayout show markdown</string>
+    <string name="reload_data">重新加载</string>
 </resources>

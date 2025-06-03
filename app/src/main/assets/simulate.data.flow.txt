@@ -1,0 +1,535 @@
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"以下是"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"企业"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"的相关"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"信息"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"：\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"###"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"指南"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"事项"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"名称"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"条件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"所需"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"材料"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"在线"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申报"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"地址"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"地点"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"承诺"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"期限"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"咨询"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"电话"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"股东"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"符合"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"法定"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"人数"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"2"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"符合"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司章程"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"规定的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"全体"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"股东"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"认"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"缴"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"出资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"额"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"股东"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"共同"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"制定"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司章程"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"4"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"名称"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"和组织"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"机构"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"5"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"住所"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公司"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"（"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"备案"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"）"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请书"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"2"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"股东"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"主体"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"资格"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"证明"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":""},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"或"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"身份"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"证明"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"法定代表人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"任职"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"文件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"4"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"住所"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"使用"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"证明"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ["},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"浙江"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"政务服务"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"网"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"]("},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"https"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"://"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"g"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sd"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"j"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".z"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"j"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"zw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"fw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".gov"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".cn"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"/login"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".do"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"?"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"method"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"enter"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"D"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"dd"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"l"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"Zw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"fw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"&"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"PAR"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"A"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"FL"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"G"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"&"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sid"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"ac"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"68"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"add"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"6"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-e"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"5"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"e"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"4"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"df"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"8"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-b"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"07"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"f"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-b"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"dd"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"95"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"f"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"91"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"e"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"090"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":")"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"杭州市"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"上"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"城区"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"政务"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"服务中心"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"六"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"楼"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"商事"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"窗口"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"（"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"杭州市"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"上"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"城区"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"四季"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"青"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"街道"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"塘"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"潮"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"街"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"6"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"号"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"）"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"即"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"057"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"869"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"090"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"00"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"###"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"个人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"独资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"企业"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"指南"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"事项"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"名称"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"条件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"所需"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"材料"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"在线"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申报"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"地址"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"地点"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"承诺"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"期限"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"咨询"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"电话"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ---"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"|"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"个人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"独资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"企业"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"投资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"人为"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"一个"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"自然人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"2"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"合法的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"企业"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"名称"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"投资人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申报"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"出资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"4"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"固定的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"生产经营"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"场所"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"和"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"必要的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"生产经营"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"条件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请书"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"2"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"投资人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"身份"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"证明"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"；"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"生产经营"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"场所"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"使用"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"证明"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" ["},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"浙江"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"政务服务"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"网"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"]("},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"https"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":""},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"://"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"g"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sd"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"j"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".z"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"j"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"zw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"fw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".gov"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".cn"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"/login"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":".do"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"?"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"method"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"enter"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"D"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"dd"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"l"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"Zw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"fw"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"&"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"PAR"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"A"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"FL"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"G"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"&"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"sid"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"="},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"73"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"f"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"951"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"09"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"ef"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"b"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"47"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"d"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"8"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"9"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"dc"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"8"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"7"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"e"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"475"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"b"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"946"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"a"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"6"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":")"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"杭州市"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"上"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"城区"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"政务"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"服务中心"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"六"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"楼"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"商事"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"登记"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"窗口"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"（"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"杭州市"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"上"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"城区"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"四季"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"青"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"街道"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"塘"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"潮"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"街"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"6"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"号"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"）"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"即"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"057"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"869"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"090"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"00"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" |\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"**"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"办理"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"时间"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"**"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"："},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"工作日"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"9"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":":"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"00"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"12"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":":"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"00"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"，"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"13"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":":"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"30"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"-"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"17"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":":"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"00"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"（"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"法定"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"节假日"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"除外"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"）\n\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"**"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"注意事项"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"**"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"：\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"1"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"所有"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"材料"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"需"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"提供"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"原件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"或"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"加盖"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"公"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"章的"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"复印件"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"2"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"可通过"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"网上"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"、"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"现场"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"窗口"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"或"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"邮寄"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"申请"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\n"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"3"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"."},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":" "},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"新"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"设立"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"个人"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"独资"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"企业"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"不能"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"冠"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\""},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"浙江"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"\""},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"或无"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"区域"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":"名称"},"index":0,"finish_reason":null}]}
+ {"id":"","object":"","created":0,"model":"","choices":[{"delta":{"role":"assistant","content":""},"index":0,"finish_reason":"stop"}]}
