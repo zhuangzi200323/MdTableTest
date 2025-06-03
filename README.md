@@ -1,0 +1,2 @@
+分别使用TextView与TableLayout显示来自数据流的markdown文本，markdown文本中包含表格数据，在TextView上显示时，表格部分会闪烁；在TableLayout上显示时表格部分就不会闪烁；
+注： 在线程中读取assets下文件来模拟来自网络上的数据流（比如大模型返回的数据）
